@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ## Technologies and Tools<br>
 ![Python](https://img.shields.io/badge/-Python-ffd343?style=flat-square&logo=python&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-c51d4a?style=flat-square&logo=raspberry-pi)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=sql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
